@@ -17,7 +17,7 @@ public class CalculadoraTeste {
 		
 		
 		
-		
+		leitor.close();
 		
 	}
 

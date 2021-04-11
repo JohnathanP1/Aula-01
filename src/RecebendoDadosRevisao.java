@@ -16,7 +16,7 @@ public class RecebendoDadosRevisao {
 		
 		
 		
-		leitor.close();
+		
 		
 	}
 
